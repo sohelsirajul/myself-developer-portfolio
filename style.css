@@ -14,6 +14,14 @@ h1 {
     background-size: 1000px;
 }
 
+.dream {
+    display: flex;
+    background-image: url(header_bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 700px;
+}
+
 
 .half-width {
     width: 50%;
