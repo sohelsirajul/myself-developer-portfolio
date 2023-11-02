@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    background-image: url(body-bg.jpg);
 }
 
 h1 {
@@ -81,4 +82,10 @@ span {
 
 .ft {
     text-align: center;
+}
+
+.xp {
+    background-image: url(xpbg.png);
+    background-size: 700px;
+    background-repeat: no-repeat;
 }
